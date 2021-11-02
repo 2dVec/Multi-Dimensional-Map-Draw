@@ -1,6 +1,7 @@
 // Paint a Drawing
 // Created by Paul Harman
 // 02/11 - 2021
+// Move with Arrow keys UP, DOWN, LEFT, RIGHT
 
 #include <iostream>
 #include <vector>
